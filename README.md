@@ -5,18 +5,22 @@ Este projeto é uma aplicação React desenvolvida como parte da disciplina Labo
 ### 📚 Funcionalidades:
 - Listagem de Referências Bibliográficas: Exibe todos os livros e materiais de referência do curso;
   
--Filtro por Disciplina: Permite filtrar os livros por disciplina específica;
+- Filtro por Disciplina: Permite filtrar os livros por disciplina específica;
 
 - Interface Responsiva: Desenvolvida com Material-UI para melhor experiência do usuário;
   
--Roteamento: Navegação entre páginas usando React Router
+- Roteamento: Navegação entre páginas usando React Router.
 
 ### 🛠️ Tecnologias Utilizadas:
-React com TypeScript
-React Context para gerenciamento de estado
-Material-UI (MUI) para componentes de interface
-React Router para navegação
-Axios para requisições HTT
+- React com TypeScript;
+  
+- React Context para gerenciamento de estado;
+  
+- Material-UI (MUI) para componentes de interface;
+  
+- React Router para navegação;
+  
+- Axios para requisições HTT.
 
 ### Colocações no terminal
 
