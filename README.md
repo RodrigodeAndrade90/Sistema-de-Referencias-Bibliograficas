@@ -1,6 +1,6 @@
 # DSM Books - Sistema de Referências Bibliográficas
 
-Este projeto é uma aplicação React desenvolvida como parte da disciplina Laboratório de Desenvolvimento Web do curso de Desenvolvimento de Software Multiplataforma (DSM). A aplicação utiliza React Context para gerenciar o estado global das referências bibliográficas e disciplinas do curso.
+Este projeto é uma aplicação React desenvolvida como parte da disciplina Laboratório de Desenvolvimento Web do curso de Desenvolvimento de Software Multiplataforma (DSM). A aplicação utiliza React Context para gerenciar o estado global das referências bibliográficas e disciplinas do curso, onde foi feito o ajuste no código CourseFilter.tsx para realizar a busca desses livros por disciplina.
 
 ### Colocações no terminal
 
